@@ -1,0 +1,14 @@
+*~
+*asetup*
+*.json
+*.log
+*.pyc
+venv/
+*.out
+figures/
+logfiles/
+*.pdf
+*.tex
+*.csv
+transfer_rate/
+runit
