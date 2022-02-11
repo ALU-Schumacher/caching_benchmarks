@@ -5,7 +5,7 @@ Nothing concerning the caching setup is done with these scripts: it is the respo
 
 ## Files
 
-To provide a varity of different file sizes and event numbers, three files are used: small (1.3 GB, 50k events), medium (5.2 GB, 200k events), and large (13 GB, 500k events). The files contain simulated ttbar events.
+To provide a varity of different file sizes and event numbers, three files are used: small (1.3 GB, 50k events), medium (5.2 GB, 200k events), and large (13 GB, 500k events). The files contain simulated ttbar events and can be downloaded at [https://cernbox.cern.ch/index.php/s/Iyx9PLXmF0pOod6].\
 Members of the ATLAS collaboration can get the files from `UNI-FREIBURG_LOCALGROUPDISK`:
 
 ```
@@ -25,9 +25,9 @@ rucio download user.dsammel:small.root user.dsammel:medium.root user.dsammel:lar
 
 ### File creation
 
-Otherwise, the files can be created with `pythia8.C`:
+The files can also be created with `pythia8.C`:
 
-Follow the instructions on http://home.thep.lu.se/~torbjorn/Pythia.html and http://home.thep.lu.se/~torbjorn/pythia83html/ROOTusage.html (Standalone usage) to install `PYTHIA8`, e.g. in the folder pythia8. An installation of `ROOT` is required.
+Follow the instructions on [http://home.thep.lu.se/~torbjorn/Pythia.html] and [http://home.thep.lu.se/~torbjorn/pythia83html/ROOTusage.html] (Standalone usage) to install `PYTHIA8`, e.g. in the folder pythia8. An installation of `ROOT` is required.
 
 Compile `main92.cc` in `pythia8/examples`
 
