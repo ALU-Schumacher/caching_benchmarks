@@ -5,7 +5,7 @@ Nothing concerning the caching setup is done with these scripts: it is the respo
 
 ## Files
 
-To provide a varity of different file sizes and event numbers, three files are used: small (1.3 GB, 50k events), medium (5.2 GB, 200k events), and large (13 GB, 500k events). The files contain simulated ttbar events and can be downloaded at [https://cernbox.cern.ch/index.php/s/Iyx9PLXmF0pOod6].\
+To provide a varity of different file sizes and event numbers, three files are used: small (1.3 GB, 50k events), medium (5.2 GB, 200k events), and large (13 GB, 500k events). The files contain simulated ttbar events and can be downloaded at https://cernbox.cern.ch/index.php/s/Iyx9PLXmF0pOod6 .\
 Members of the ATLAS collaboration can get the files from `UNI-FREIBURG_LOCALGROUPDISK`:
 
 ```
