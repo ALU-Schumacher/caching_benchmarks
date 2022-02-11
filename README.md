@@ -74,6 +74,8 @@ optional arguments:
   -d, --debug           enable creation of debug files
 ```
 
+The available sites and files are defined in `sites.ini` and `files.ini`.
+
 Site example:
 
 ```
