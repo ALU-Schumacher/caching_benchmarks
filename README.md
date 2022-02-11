@@ -27,7 +27,7 @@ rucio download user.dsammel:small.root user.dsammel:medium.root user.dsammel:lar
 
 The files can also be created with `pythia8.C`:
 
-Follow the instructions on [http://home.thep.lu.se/~torbjorn/Pythia.html] and [http://home.thep.lu.se/~torbjorn/pythia83html/ROOTusage.html] (Standalone usage) to install `PYTHIA8`, e.g. in the folder pythia8. An installation of `ROOT` is required.
+Follow the instructions on http://home.thep.lu.se/~torbjorn/Pythia.html and http://home.thep.lu.se/~torbjorn/pythia83html/ROOTusage.html (Standalone usage) to install `PYTHIA8`, e.g. in the folder pythia8. An installation of `ROOT` is required.
 
 Compile `main92.cc` in `pythia8/examples`
 
